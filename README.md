@@ -12,7 +12,7 @@ a. The script code (documented and commented)
    
 b. The database schema
 
-   1.3.schema.png
+   1.schema.png
 
 [ASSIGNMENT01 - PART02]
 
